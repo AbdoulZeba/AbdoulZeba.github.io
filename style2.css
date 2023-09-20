@@ -1,0 +1,24 @@
+body{
+    background-color:burlywood;
+}
+table{
+    border: 1px solid;
+    width:500px;
+    height: 500px;
+    background-color:rgb(216, 227, 237);
+}
+td{
+    border: 1px solid;
+    color:green;
+    font-size: 20px;
+}
+
+#aggiepride{
+    font-size: 50px;
+    color: blue;
+}
+#home{
+    margin: 20px;
+    font-size: 20px;
+    color: blue;
+}

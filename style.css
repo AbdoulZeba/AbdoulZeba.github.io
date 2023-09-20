@@ -1,0 +1,63 @@
+body{
+    background-color:burlywood;
+}
+img{
+    width:300px;
+    height:400px; 
+}
+div{
+    background-color:rgb(129, 242, 204);
+    width: 800px;
+    height: 450px;
+    margin-left: 100px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 10px;
+    text-align: center;
+   
+
+}
+div p{
+    text-align: center;
+    padding-left: 10px;
+    color:darkblue;
+    font-size: 1.5rem;
+    display: inline-block;
+    position: relative;
+    bottom: 30%;
+    left: 10%;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+span{
+    color:red;
+}
+
+section{
+    text-align: center;
+
+    
+}
+section h1{
+    color: darkblue;
+
+}
+
+section ul li{
+    list-style-type: none;
+    padding: 10px;
+}
+section ul li a{
+     font-size: 25px;
+     color: black;
+     text-decoration: none;
+}
+
+
+#intro{
+    font-size: 35px;
+    color:blue
+}
